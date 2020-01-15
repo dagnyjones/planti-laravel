@@ -1196,7 +1196,7 @@ var app = new Vue({
 /* 12 */
 /***/ (function(module, exports) {
 
-// removed by extract-text-webpack-plugin
+throw new Error("Module build failed: ModuleBuildError: Module build failed: \r\n@import 'bootstrap/bootstrap';\r\n^\r\n      File to import not found or unreadable: bootstrap/bootstrap.\r\n      in C:\\xampp\\htdocs\\dagnyproject\\resources\\assets\\sass\\_custom.scss (line 1, column 1)\n    at C:\\xampp\\htdocs\\dagnyproject\\node_modules\\webpack\\lib\\NormalModule.js:192:19\n    at C:\\xampp\\htdocs\\dagnyproject\\node_modules\\loader-runner\\lib\\LoaderRunner.js:367:11\n    at C:\\xampp\\htdocs\\dagnyproject\\node_modules\\loader-runner\\lib\\LoaderRunner.js:233:18\n    at context.callback (C:\\xampp\\htdocs\\dagnyproject\\node_modules\\loader-runner\\lib\\LoaderRunner.js:111:13)\n    at Object.callback (C:\\xampp\\htdocs\\dagnyproject\\node_modules\\sass-loader\\lib\\loader.js:55:13)\n    at Object.done [as callback] (C:\\xampp\\htdocs\\dagnyproject\\node_modules\\neo-async\\async.js:8067:18)\n    at options.error (C:\\xampp\\htdocs\\dagnyproject\\node_modules\\node-sass\\lib\\index.js:294:32)");
 
 /***/ }),
 /* 13 */
